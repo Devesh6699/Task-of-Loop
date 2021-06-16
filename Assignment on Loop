@@ -1,0 +1,33 @@
+List1 = [12, -7, 5, 64, -14]
+# list of numbers
+List1 = [12, -7, 5, 64, -14]
+num = 0
+  
+# using while loop     
+while(num < len(List1)):
+      
+    # checking condition
+    if List1[num] >= 0:
+        print(List1[num], end = " ")
+      
+    # increment num 
+    num += 1
+______________________________________________________________________________
+______________________________________________________________________________
+
+List2 = [12, 14, -95, 3]  
+# list of numbers
+List2 = [12, 14, -95, 3]
+num = 0
+  
+# using while loop     
+while(num < len(List2)):
+      
+    # checking condition
+    if List2[num] >= 0:
+        print(List2[num], end = " ")
+      
+    # increment num 
+    num += 1
+_________________________________________________________________________________
+_________________________________________________________________________________
